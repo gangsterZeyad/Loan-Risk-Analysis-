@@ -11,8 +11,10 @@
 - **📊 Power BI** → تقارير تحليلية عن القروض  
 - **📜 EDA (Python)** → تحليل البيانات باستخدام Python  
 
-## 🚀 Technologies Used  
-- Python 🐍  
+## 🚀 Technologies Used
+- MySQL
+- Python 🐍
+- Microsoft Fabric   
 - Power BI 📊  
 - Pandas & NumPy 📈  
 - Matplotlib & Seaborn 🎨  
